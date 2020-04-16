@@ -1,5 +1,10 @@
 # Charle-Chaplin
 
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/alissonandrade2020/htmlcsschaplin/master/charliechaplin.png"
+" width="850px" />
+</h1>
+
 Aprendendo com danielcfreitas !
 
 ## Desenvolvimento
