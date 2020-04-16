@@ -31,7 +31,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
 
- - [Féliz Pasco](https://alissonandradesistema.000webhostapp.com/felizpascoa/)
+ - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa/)
  
   - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
